@@ -1,0 +1,17 @@
+.selectWrapper {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.title {
+  font-size: 24px;
+}
+
+.select {
+  border-radius: 10px;
+  border: 2px solid gray;
+  padding: 8px 12px;
+  background-color: white;
+  font-size: 20px;
+}

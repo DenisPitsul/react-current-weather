@@ -1,0 +1,29 @@
+.title {
+  margin-top: 10px;
+  font-size: 28px;
+  text-align: center;
+}
+
+.dataWrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 10px;
+}
+
+.data {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.icon {
+  width: 30px;
+  height: 30px;
+}
+
+.dataText {
+  font-size: 24px;
+}
